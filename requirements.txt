@@ -18,3 +18,4 @@ requests
 pypdf
 beautifulsoup4
 chromadb
+langchain-tavily
